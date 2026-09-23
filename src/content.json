@@ -10,7 +10,7 @@
   "github": "",
   "skills": "PHP, Laravel, Python, Django, JavaScript, TypeScript, Shopify Plus, WordPress, Drupal, React, Vue.js, AI Agents, RAG, Vector Databases, Supabase, Lovable, AWS, Docker, PostgreSQL, MongoDB, Redis, CI/CD",
   "skillGroups": "Languages & Frameworks|PHP, Laravel, CodeIgniter, Python, Django, Ruby on Rails, JavaScript, TypeScript, Node.js, React, Vue.js, Liquid, HTML\nAI / ML & Agents|Multi-model AI orchestration, AI agent pipelines, RAG, Vector embeddings & databases, Prompt engineering, Generative image/video pipelines, Lovable (AI app builder)\nCMS & E-commerce|Shopify / Shopify Plus, WordPress / WooCommerce, Drupal\nAPIs & Integrations|REST API design, Stripe, PayPal, Meta/Facebook APIs, Google Sheets & Apps Script, SSL Tunnel\nCloud & DevOps|AWS (EC2, S3), Docker, Laravel Forge, DigitalOcean, Cloudways, GitHub Actions, CI/CD\nDatabases|MySQL, PostgreSQL, MongoDB, SQL Server, Redis, Vector databases, Supabase\nDomains|SaaS, Generative AI products, Custom Web Applications, E-commerce, EMR / HIPAA, GDPR",
-  "stats": "14+|Years building\n50+|Engineers led\n15+|Projects delivered\n99.9%|Uptime at peak sales",
+  "stats": "14+|Years building\n50+|Engineers led\n250+|Projects delivered\n99.9%|Uptime at peak sales",
   "projects": [
     {
       "id": "p0",
