@@ -206,7 +206,7 @@ function Site({ d, onSecret }: { d: Data; onSecret: () => void }) {
 
         <section className="grid gap-10 px-6 py-16 md:grid-cols-12 md:px-12">
           <h2 className={`${mono} text-xs uppercase tracking-[0.3em] text-white/40 md:col-span-3`}>01 — About</h2>
-          <Reveal className="md:col-span-8"><p className={`${serif} text-2xl leading-snug md:text-4xl`}>{d.about}</p></Reveal>
+          <Reveal className="md:col-span-8"><p className={`${serif} text-lg leading-relaxed md:text-2xl`}>{d.about}</p></Reveal>
         </section>
 
         <section id="skills" className="px-6 py-16 md:px-12">
