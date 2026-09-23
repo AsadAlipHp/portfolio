@@ -8,8 +8,8 @@
   "location": "Lahore, Pakistan",
   "linkedin": "https://www.linkedin.com/in/phpdeveloperlaravel",
   "github": "",
-  "skills": "Node.js, TypeScript, Python, Django, Laravel, PHP, Shopify Plus, React, Vue.js, AI Agents, RAG, Vector Databases, AWS, Docker, PostgreSQL, MongoDB, Redis, CI/CD",
-  "skillGroups": "Languages & Frameworks|Node.js, TypeScript, JavaScript, Python, Django, Ruby on Rails, PHP, Laravel, CodeIgniter, React, Vue.js, Liquid\nAI / ML & Agents|Multi-model AI orchestration, AI agent pipelines, RAG, Vector embeddings & databases, Prompt engineering, Generative image/video pipelines\nE-commerce|Shopify / Shopify Plus, WordPress / WooCommerce\nAPIs & Integrations|REST API design, Stripe, PayPal, Meta/Facebook APIs, Google Sheets & Apps Script\nCloud & DevOps|AWS (EC2, S3), Docker, Laravel Forge, DigitalOcean, Cloudways, GitHub Actions, CI/CD\nDatabases|MySQL, PostgreSQL, MongoDB, SQL Server, Redis, Vector databases\nDomains|SaaS, Generative AI products, E-commerce, EMR / HIPAA, GDPR",
+  "skills": "Node.js, TypeScript, Python, Django, Laravel, PHP, Shopify Plus, WordPress, Drupal, React, Vue.js, AI Agents, RAG, Vector Databases, Supabase, Lovable, AWS, Docker, PostgreSQL, MongoDB, Redis, CI/CD",
+  "skillGroups": "Languages & Frameworks|Node.js, TypeScript, JavaScript, Python, Django, Ruby on Rails, PHP, Laravel, CodeIgniter, React, Vue.js, Liquid\nAI / ML & Agents|Multi-model AI orchestration, AI agent pipelines, RAG, Vector embeddings & databases, Prompt engineering, Generative image/video pipelines, Lovable (AI app builder)\nCMS & E-commerce|Shopify / Shopify Plus, WordPress / WooCommerce, Drupal\nAPIs & Integrations|REST API design, Stripe, PayPal, Meta/Facebook APIs, Google Sheets & Apps Script\nCloud & DevOps|AWS (EC2, S3), Docker, Laravel Forge, DigitalOcean, Cloudways, GitHub Actions, CI/CD\nDatabases|MySQL, PostgreSQL, MongoDB, SQL Server, Redis, Vector databases, Supabase\nDomains|SaaS, Generative AI products, E-commerce, EMR / HIPAA, GDPR",
   "stats": "14+|Years building\n50+|Engineers led\n15+|Projects delivered\n99.9%|Uptime at peak sales",
   "projects": [
     {
@@ -56,10 +56,10 @@
   "jobs": [
     {
       "id": "j1",
-      "role": "Senior Technical Lead — AI Product Engineering",
-      "company": "Syllaby (contract)",
+      "role": "Senior Technical Lead",
+      "company": "PlanLeft",
       "period": "Mar 2026 — Present",
-      "desc": "Led architecture, audit and completion of Specteon, from mid-development to public launch. Stabilised Python/Django, Node.js/TypeScript and PHP services ahead of release."
+      "desc": "Leading full-stack delivery across WordPress, Drupal and Laravel, plus AI-assisted builds on Lovable and Supabase. Own server infrastructure across DigitalOcean, Laravel Forge, AWS and Cloudways, including provisioning, deployment and uptime."
     },
     {
       "id": "j2",
