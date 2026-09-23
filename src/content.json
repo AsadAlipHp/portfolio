@@ -2,16 +2,24 @@
   "name": "Asad Ali",
   "title": "Senior Technical Lead — Full-Stack, Node.js & Applied AI",
   "tagline": "I build backends that don't break — and ship AI products from prototype to public launch.",
-  "about": "Senior Technical Lead with 14+ years architecting and scaling full-stack platforms across Node.js/TypeScript, Python (Django) and PHP/Laravel. Right now I'm building an AI-powered ad-generation product from the ground up — multi-model orchestration, agent pipelines, RAG and a vector-database embedding system — through to its Product Hunt launch. I've led engineering departments of 50+ developers while staying hands-on with architecture, code quality and CI/CD, and I specialise in high-availability e-commerce systems handling six-figure daily sales.",
+  "about": "Senior Technical Lead with 14+ years architecting and scaling full-stack platforms across Node.js/TypeScript, Python (Django) and PHP/Laravel. Currently at PlanLeft, leading full-stack delivery across WordPress, Drupal and Laravel plus AI-assisted builds on Lovable and Supabase, and owning server infrastructure across DigitalOcean, Laravel Forge, AWS and Cloudways. I recently built an AI-powered ad-generation product from the ground up — multi-model orchestration, agent pipelines, RAG and a vector-database embedding system — through to its Product Hunt launch. I've led engineering departments of 50+ developers while staying hands-on with architecture, code quality and CI/CD, and I specialise in high-availability e-commerce systems handling six-figure daily sales.",
   "email": "asad.aliphp@gmail.com",
   "phone": "+92 334 513 8083",
   "location": "Lahore, Pakistan",
-  "linkedin": "https://www.linkedin.com/in/phpdeveloperlaravel",
+  "linkedin": "https://www.linkedin.com/in/phpdeveloper-laravel/",
   "github": "",
   "skills": "Node.js, TypeScript, Python, Django, Laravel, PHP, Shopify Plus, WordPress, Drupal, React, Vue.js, AI Agents, RAG, Vector Databases, Supabase, Lovable, AWS, Docker, PostgreSQL, MongoDB, Redis, CI/CD",
-  "skillGroups": "Languages & Frameworks|Node.js, TypeScript, JavaScript, Python, Django, Ruby on Rails, PHP, Laravel, CodeIgniter, React, Vue.js, Liquid\nAI / ML & Agents|Multi-model AI orchestration, AI agent pipelines, RAG, Vector embeddings & databases, Prompt engineering, Generative image/video pipelines, Lovable (AI app builder)\nCMS & E-commerce|Shopify / Shopify Plus, WordPress / WooCommerce, Drupal\nAPIs & Integrations|REST API design, Stripe, PayPal, Meta/Facebook APIs, Google Sheets & Apps Script\nCloud & DevOps|AWS (EC2, S3), Docker, Laravel Forge, DigitalOcean, Cloudways, GitHub Actions, CI/CD\nDatabases|MySQL, PostgreSQL, MongoDB, SQL Server, Redis, Vector databases, Supabase\nDomains|SaaS, Generative AI products, E-commerce, EMR / HIPAA, GDPR",
+  "skillGroups": "Languages & Frameworks|Node.js, TypeScript, JavaScript, Python, Django, Ruby on Rails, PHP, Laravel, CodeIgniter, React, Vue.js, Liquid, HTML\nAI / ML & Agents|Multi-model AI orchestration, AI agent pipelines, RAG, Vector embeddings & databases, Prompt engineering, Generative image/video pipelines, Lovable (AI app builder)\nCMS & E-commerce|Shopify / Shopify Plus, WordPress / WooCommerce, Drupal\nAPIs & Integrations|REST API design, Stripe, PayPal, Meta/Facebook APIs, Google Sheets & Apps Script, SSL Tunnel\nCloud & DevOps|AWS (EC2, S3), Docker, Laravel Forge, DigitalOcean, Cloudways, GitHub Actions, CI/CD\nDatabases|MySQL, PostgreSQL, MongoDB, SQL Server, Redis, Vector databases, Supabase\nDomains|SaaS, Generative AI products, Custom Web Applications, E-commerce, EMR / HIPAA, GDPR",
   "stats": "14+|Years building\n50+|Engineers led\n15+|Projects delivered\n99.9%|Uptime at peak sales",
   "projects": [
+    {
+      "id": "p0",
+      "title": "PlanLeft — Multi-Stack Client Delivery",
+      "desc": "Full-stack delivery across WordPress, Drupal and Laravel, plus AI-assisted builds on Lovable and Supabase. Own server infrastructure end-to-end across DigitalOcean, Laravel Forge, AWS and Cloudways — provisioning, deployment and uptime.",
+      "tags": "WordPress, Drupal, Laravel, Supabase, Lovable",
+      "url": "",
+      "year": "2026–Present"
+    },
     {
       "id": "p1",
       "title": "Specteon — AI Ad Generation",
