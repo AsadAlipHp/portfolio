@@ -1,4 +1,5 @@
 import content from "./content.json";
+import profileImg from "./assets/profile.jpeg";
 import { useEffect, useRef, useState, type ReactNode } from "react";
 
 type Project = { id: string; title: string; desc: string; tags: string; url: string; year: string };
@@ -175,6 +176,12 @@ function Site({ d, onSecret }: { d: Data; onSecret: () => void }) {
 
         <section className="relative grid gap-10 overflow-hidden px-6 pb-20 pt-20 md:grid-cols-12 md:px-12 md:pt-28">
           <div className="pointer-events-none absolute -right-24 top-0 h-[460px] w-[460px] rounded-full bg-[#ff5a36]/20 blur-[110px]" style={{ animation: "drift 16s ease-in-out infinite" }} />
+          <img
+            src={profileImg}
+            alt={d.name}
+            className="absolute right-6 top-6 hidden h-40 w-40 rounded-2xl border border-white/10 object-cover shadow-2xl md:right-12 md:block md:h-64 md:w-64"
+            style={{ animation: "fadeup 1s ease .6s both" }}
+          />
           <div className="relative md:col-span-9">
             <p className={`${mono} mb-6 text-xs uppercase tracking-[0.3em] ${accent}`} style={{ animation: "fadeup .8s ease both" }}>
               <span style={{ animation: "blink 1.6s infinite" }}>●</span> Based in {d.location}
