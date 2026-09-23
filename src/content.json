@@ -1,0 +1,121 @@
+{
+  "name": "Asad Ali",
+  "title": "Senior Technical Lead — Full-Stack, Node.js & Applied AI",
+  "tagline": "I build backends that don't break — and ship AI products from prototype to public launch.",
+  "about": "Senior Technical Lead with 14+ years architecting and scaling full-stack platforms across Node.js/TypeScript, Python (Django) and PHP/Laravel. Right now I'm building an AI-powered ad-generation product from the ground up — multi-model orchestration, agent pipelines, RAG and a vector-database embedding system — through to its Product Hunt launch. I've led engineering departments of 50+ developers while staying hands-on with architecture, code quality and CI/CD, and I specialise in high-availability e-commerce systems handling six-figure daily sales.",
+  "email": "asad.aliphp@gmail.com",
+  "phone": "+92 334 513 8083",
+  "location": "Lahore, Pakistan",
+  "linkedin": "https://www.linkedin.com/in/phpdeveloperlaravel",
+  "github": "",
+  "skills": "Node.js, TypeScript, Python, Django, Laravel, PHP, Shopify Plus, React, Vue.js, AI Agents, RAG, Vector Databases, AWS, Docker, PostgreSQL, MongoDB, Redis, CI/CD",
+  "skillGroups": "Languages & Frameworks|Node.js, TypeScript, JavaScript, Python, Django, Ruby on Rails, PHP, Laravel, CodeIgniter, React, Vue.js, Liquid\nAI / ML & Agents|Multi-model AI orchestration, AI agent pipelines, RAG, Vector embeddings & databases, Prompt engineering, Generative image/video pipelines\nE-commerce|Shopify / Shopify Plus, WordPress / WooCommerce\nAPIs & Integrations|REST API design, Stripe, PayPal, Meta/Facebook APIs, Google Sheets & Apps Script\nCloud & DevOps|AWS (EC2, S3), Docker, Laravel Forge, DigitalOcean, Cloudways, GitHub Actions, CI/CD\nDatabases|MySQL, PostgreSQL, MongoDB, SQL Server, Redis, Vector databases\nDomains|SaaS, Generative AI products, E-commerce, EMR / HIPAA, GDPR",
+  "stats": "14+|Years building\n50+|Engineers led\n15+|Projects delivered\n99.9%|Uptime at peak sales",
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Specteon — AI Ad Generation",
+      "desc": "Multi-model pipeline (OpenAI, Gemini, Seedance, Nano Banana) that turns one image into product and character ads, with a vector-DB character-reuse system and RAG. Taken to a public Product Hunt launch.",
+      "tags": "Node.js, Python/Django, RAG, Vector DB",
+      "url": "",
+      "year": "2026"
+    },
+    {
+      "id": "p2",
+      "title": "Shopify Plus Platforms",
+      "desc": "Architected high-traffic stores (Revibe, KIKO) handling ~400,000 AED in daily sales at 99.9% uptime through peak promotions, with 0% revenue loss.",
+      "tags": "Shopify Plus, Liquid, Node.js",
+      "url": "",
+      "year": "2023–26"
+    },
+    {
+      "id": "p3",
+      "title": "Automotive E-commerce Catalog",
+      "desc": "Custom Core PHP system managing 8M+ products with 50% faster indexing, plus marketplace sync to eBay and Google Merchant at 99.9% inventory accuracy.",
+      "tags": "Core PHP, MySQL, Redis",
+      "url": "",
+      "year": "2021–23"
+    },
+    {
+      "id": "p4",
+      "title": "EMR Platform Modules",
+      "desc": "Modules for a flagship electronic medical records platform with full HIPAA compliance; clinical record retrieval made 40% faster.",
+      "tags": "PHP, SQL Server, HIPAA",
+      "url": "",
+      "year": "2017–20"
+    },
+    {
+      "id": "p5",
+      "title": "B2B Software Platform",
+      "desc": "Roadmap and specifications that cut time-to-market by 20% and lifted user retention by 15%.",
+      "tags": "Product, Scrum, Laravel",
+      "url": "",
+      "year": "2020–21"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "j1",
+      "role": "Senior Technical Lead — AI Product Engineering",
+      "company": "Syllaby (contract)",
+      "period": "Mar 2026 — Present",
+      "desc": "Led architecture, audit and completion of Specteon, from mid-development to public launch. Stabilised Python/Django, Node.js/TypeScript and PHP services ahead of release."
+    },
+    {
+      "id": "j2",
+      "role": "Senior Technical Lead",
+      "company": "Enigma Logics",
+      "period": "Oct 2023 — Mar 2026",
+      "desc": "Led a 50+ developer department; CI/CD and code review raised release velocity 30% and cut post-launch bugs 25%. Delivered 15+ high-budget client projects on time and on budget."
+    },
+    {
+      "id": "j3",
+      "role": "Ruby on Rails Developer",
+      "company": "Independent",
+      "period": "2021 — 2023",
+      "desc": "Built a full product feature in Rails using MVC and ActiveRecord modelling."
+    },
+    {
+      "id": "j4",
+      "role": "Principal Software Engineer",
+      "company": "Techificent",
+      "period": "Aug 2021 — Sep 2023",
+      "desc": "Technical lead for enterprise automotive e-commerce; database work cut load times 60%; mentored 35+ developers; marketplace sync expanded global sales reach 40%."
+    },
+    {
+      "id": "j5",
+      "role": "Senior Product Manager",
+      "company": "Integet",
+      "period": "May 2020 — Jul 2021",
+      "desc": "Owned roadmap for a B2B platform and secured a 100% project approval rate by tying delivery to business ROI."
+    },
+    {
+      "id": "j6",
+      "role": "Senior Software Engineer",
+      "company": "CureMD",
+      "period": "Aug 2017 — Apr 2020",
+      "desc": "Built EMR modules with 100% HIPAA compliance and a 40% cut in record retrieval time."
+    },
+    {
+      "id": "j7",
+      "role": "Senior Software Engineer / Team Lead",
+      "company": "Solution Experts (SolExp)",
+      "period": "Sep 2014 — Aug 2017",
+      "desc": "Led 10+ developers for international clients; Laravel and CodeIgniter architecture cut infrastructure costs 15%."
+    },
+    {
+      "id": "j8",
+      "role": "PHP Developer",
+      "company": "MobIT Solutions",
+      "period": "Sep 2012 — Sep 2014",
+      "desc": "Custom CMS for 20+ client sites and API integrations that reduced manual data entry by 50%."
+    },
+    {
+      "id": "j9",
+      "role": "BSc Computer Science",
+      "company": "Lahore Garrison University",
+      "period": "2011 — 2015",
+      "desc": ""
+    }
+  ]
+}
