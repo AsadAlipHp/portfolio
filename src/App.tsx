@@ -183,6 +183,12 @@ function Site({ d, onSecret }: { d: Data; onSecret: () => void }) {
             style={{ animation: "fadeup 1s ease .6s both" }}
           />
           <div className="relative md:col-span-9">
+            <img
+              src={profileImg}
+              alt={d.name}
+              className="mb-6 h-24 w-24 rounded-2xl border border-white/10 object-cover shadow-2xl md:hidden"
+              style={{ animation: "fadeup 1s ease .3s both" }}
+            />
             <p className={`${mono} mb-6 text-xs uppercase tracking-[0.3em] ${accent}`} style={{ animation: "fadeup .8s ease both" }}>
               <span style={{ animation: "blink 1.6s infinite" }}>●</span> Based in {d.location}
             </p>
